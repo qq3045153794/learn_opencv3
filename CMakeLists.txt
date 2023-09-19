@@ -26,3 +26,11 @@ add_executable(ex2-11 ex_2-11.cpp)
 add_executable(ex9-2 ex_9_2.cpp)
 
 add_executable(ex9-3 ex_9_3.cpp)
+
+add_executable(ex10-1 ex_10_1.cpp)
+
+add_executable(ex10-3 ex_10_3.cpp)
+
+add_executable(ex10-4 ex_10_4.cpp)
+
+add_executable(ex11-1 ex_11_1.cpp)
